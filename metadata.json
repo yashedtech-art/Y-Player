@@ -1,0 +1,9 @@
+
+{
+  "name": "Y SERIES Player Pro",
+  "description": "The ultimate AI-integrated video player by Y SERIES featuring contextual chat, smart scene markers, and immersive visuals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
